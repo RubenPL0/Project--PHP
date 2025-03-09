@@ -1,4 +1,4 @@
-# Space exploration - Mission & Astronaut Management 🚀
+# Space exploration - mission & astronaut management 🚀
 
 Welcome to our web application developed in **Symfony** to manage space agencies, missions, astronauts, and celestial objects. This application provides an intuitive interface to explore data related to space expeditions, track astronaut history, and monitor space missions! (A mix of reality and fiction)
 
