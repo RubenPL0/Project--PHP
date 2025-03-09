@@ -19,7 +19,7 @@ Make sure you have the following installed:
 
 ### **Clone the project**
 ```bash
-git clone https://github.com/your-repo/exploration-space.git
+git clone https://github.com/RubenPL0/Project--PHP.git
 cd exploration-space
 ```
 
